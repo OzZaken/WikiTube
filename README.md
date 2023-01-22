@@ -10,7 +10,8 @@ WikiTube is a web application that merges the functionality of YouTube and Wikip
 - Display related Wikipedia articles
 - Responsive design for different screen sizes
 - Light/dark theme toggle
-- 
+  
+  
 <img src="assets/img/readme/tablet.png" alt="Tablet Preview">
 <img src="assets/img/readme/mobile.png" alt="Mobile Preview">
 
