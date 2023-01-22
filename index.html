@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WikiTube</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body onload="app.onInit()">
+    <header class="main-header">
+        <a href="#" class="main-logo">
+            <div class="icon-wiki"></div>
+            <h1 class="logo"></h1>
+        </a>
+
+        <form onsubmit="app.onSearch(event)">
+            <input type="search" name="search" placeholder="Search WikiTube..." value="The Song of the Golden Dragon">
+            <button>🔍</button>
+        </form>
+    </header>
+
+    <main class="main-container">
+        <section class="flex main-video-play-container">
+            <iframe src="https://www.youtube.com/embed/A_MjCqQoLLA?controls=0"></iframe>
+        </section>
+
+        <section class="flex main-tube-container"></section>
+
+        <section class="flex main-wiki-container">
+            <div class="wiki-container"></div>
+        </section>
+    </main>
+
+    <footer>&copy;Oz Zaken - CodingAcademy -&nbsp;
+        <button title="Animated Light / Dark Toggle" class="btn-toggle-theme" onclick="app.onSetTheme()">
+            <div class="toggle-ball off"></div>
+        </button>
+    </footer>
+
+    <script src="lib/axios.js"></script>
+    <script type="module" src="js/wiki-tube.controller.js"></script>
+</body>
+
+</html>

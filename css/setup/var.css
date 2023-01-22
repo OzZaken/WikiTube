@@ -1,0 +1,21 @@
+:root {
+    /* pallette */
+    --clr-wiki: black;
+    --clr-tube: red;
+    --clr-bright: #e0e0e0;
+    /* Theme */
+    --clr-bgc-bright: whitesmoke;
+    --clr-bgc-dark: #222;
+}
+
+.light {
+    text-align: center;
+    color: #333333;
+    transition: ease 0.8s;
+}
+
+.dark {
+    background-color: #121212;
+    color: #F9F9F9;
+    transition: ease 0.8s;
+}

@@ -1,0 +1,18 @@
+.logo::first-letter {
+    font-size: calc(2.5rem);
+    font-weight: lighter;
+}
+
+.logo:before {
+    content: 'Wiki';
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body.dark .logo:before {color: white;}
+
+.logo::after {
+    content: 'Tube';
+    color: rgba(255, 0, 0, 0.798);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

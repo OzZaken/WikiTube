@@ -1,0 +1,41 @@
+.btn-toggle-theme {
+    width: 100px;
+    min-height: 50%;
+    border: none;
+    background-color: #FFFFFF;
+    border-radius: 50px;
+    background: linear-gradient(145deg, #EEEEEE, #F0F0F0);
+    box-shadow: 5px 5px 20px #CECECE, inset 3px 0 2px #FFFFFF, 2px 2px 5px #F9F9F9;
+    margin-top: 2px;
+    transition: ease 0.5s;
+}
+
+.btn-toggle-theme:focus {
+    outline: none;
+    border: none;
+}
+
+.btn-toggle-theme:active {
+    background: linear-gradient(145deg, #EEEEEE, #c88888);
+    box-shadow: 5px 5px 20px #CECECE, inset 3px 0 2px #FFFFFF, 2px 2px 5px #f7e054;
+    margin-top: 32px;
+}
+
+.toggle-ball {
+    width: 50%;
+    height: 2rem;
+    border-radius: 50px;
+    transition: ease-in-out 0.5s;
+}
+
+.toggle-ball.off {
+    background: var(--clr-wiki);
+    box-shadow: inset 3px 3px 6px #B8B8B8, inset -3px -3px 6px #FFFFFF;
+}
+
+.toggle-ball.on {
+    background-color: var(--clr-tube);
+    box-shadow: inset 3px 3px 6px #c88888, inset -3px -3px 6px #FFFFFF;
+    border-radius: 100%;
+    transform: translateX(58px);
+}

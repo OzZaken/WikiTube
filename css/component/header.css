@@ -1,0 +1,57 @@
+.main-header {
+    display: flex;
+    align-items: center;
+    max-height: 8vh;
+    padding: 20px;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid var(--clr-wiki);
+    justify-content: space-between;
+}
+
+.main-logo {
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.icon-wiki,
+.icon-tube {
+    border: none;
+    background-color: transparent;
+    display: flex;
+    max-width: 48px;
+    max-height: 48px;
+}
+
+.icon-tube:hover {
+    transition: scale 3ms;
+    scale: 1.03;
+}
+
+.icon-wiki {
+    content: url('../../assets/img/wikipedia-logo.png');
+}
+
+.main-header form {
+    justify-content: center;
+}
+
+.main-header input {
+    border-radius: 4px;
+    height: 90%;
+    padding: 0.5em;
+    font-size: 1.3em;
+    border: none;
+    transition: 0.5s;
+    width: 45vw;
+}
+
+.main-header input:focus {
+    background-color: rgba(194, 27, 12, 0.76);
+    padding: 0.5em 1em;
+}
+
+.main-header button {
+    border: none;
+    background-color: transparent;
+}
