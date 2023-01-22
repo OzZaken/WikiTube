@@ -1,7 +1,8 @@
 .main-container {
     display: grid;
+    grid-auto-flow:  dense;
     place-content: center;
-    grid-template-columns: minmax(30% 450px, auto) 1fr 1fr;
+    grid-template-columns: 30% 70%;
     margin-inline-start: .5em;
     margin-inline-end: .5em;
 }
