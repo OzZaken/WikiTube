@@ -1,8 +1,14 @@
-# Welcome to WikiTube
+# <img src="./assets/img/wikipedia-logo.png" alt="Wikipedia logo"> Welcome to  WikiTube <img src="./assets/img/youtube-logo.png"
 Wikipedia &amp; YouTube combination 
-[Check it Out](https://ozzaken.github.io/WikiTube/)
 
 WikiTube is a web application that merges the functionality of YouTube and Wikipedia. It allows users to search for videos on YouTube and also displays related Wikipedia articles on the same page. This creates an all-in-one experience for users to learn and explore topics they are interested in.
+[Check it Out](https://ozzaken.github.io/WikiTube/)
+
+![Desktop light](assets/img/readme/desktop-light.jpg "Desktop light" =250x)
+![Tablet light](assets/img/readme/tablet-light.jpg "Tablet light" =250x)
+![Tablet dark](assets/img/readme/tablet-dark.jpg "Tablet dark" =250x)
+![Mobile light](assets/img/readme/mobile-light.jpg "Mobile light" =250x)
+![Mobile dark](assets/img/readme/tablet-dark.jpg "Mobile dark" =250x)
 
 ## Features
 - Search for YouTube videos

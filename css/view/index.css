@@ -1,8 +1,9 @@
 .main-container {
     display: grid;
-    grid-auto-flow:  dense;
+    grid-auto-flow: row dense;
     place-content: center;
-    grid-template-columns: 30% 70%;
+    grid-template-columns: 35% 65%;
+    grid-template-rows: 40% 60%;
     margin-inline-start: .5em;
     margin-inline-end: .5em;
 }
@@ -19,6 +20,7 @@
     position: relative;
     width: 100%;
     height: 100%;
+    min-height: 300px;
 }
 
 .tube-preview {
@@ -44,12 +46,12 @@
 }
 
 @media (min-width: 768px) {
-    .main-container section {
-        grid-column: unset;
-    }
-
     .main-video-play-container {
         order: 1;
+        max-height: unset;
+    }
+    .main-container section {
+        grid-column: unset;
     }
 
     .main-wiki-container {
