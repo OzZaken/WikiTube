@@ -1,6 +1,6 @@
 # Welcome to WikiTube
 Wikipedia &amp; YouTube combination 
-[Link text](https://ozzaken.github.io/WikiTube/)
+[Check it Out](https://ozzaken.github.io/WikiTube/)
 
 WikiTube is a web application that merges the functionality of YouTube and Wikipedia. It allows users to search for videos on YouTube and also displays related Wikipedia articles on the same page. This creates an all-in-one experience for users to learn and explore topics they are interested in.
 
