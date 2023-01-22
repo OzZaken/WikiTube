@@ -1,15 +1,14 @@
-#  Welcome to <img src="./assets/img/wikipedia-logo.png" style="width:35px;height:35px" alt="Wikipedia logo"> WikiTube <img style="width:48px;height:35px" src="assets/img/youtube-logo.png">
+#  Welcome to <img src="assets/img/wikipedia-logo.png" style="width:35px;height:35px" alt="Wikipedia logo"> WikiTube <img style="width:48px;height:35px" src="assets/img/youtube-logo.png">
 Wikipedia &amp; YouTube combination 
 
 WikiTube is a web application that merges the functionality of YouTube and Wikipedia. It allows users to search for videos on YouTube and also displays related Wikipedia articles on the same page. This creates an all-in-one experience for users to learn and explore topics they are interested in.
 [Check it Out](https://ozzaken.github.io/WikiTube/)
 
-
-![Desktop light](./assets/img/readme/desktop-light.jpg "Desktop light" =250x)
-![Tablet light](./assets/img/readme/tablet-light.jpg "Tablet light" =250x)
-![Tablet dark](./assets/img/readme/tablet-dark.jpg "Tablet dark" =250x)
-![Mobile light](./assets/img/readme/mobile-light.jpg "Mobile light" =250x)
-![Mobile dark](./assets/img/readme/tablet-dark.jpg "Mobile dark" =250x)
+<img src="assets/img/readme/desktop-light.jpg" style="width:35px;height:35px" alt="Desktop light">
+<img src="assets/img/readme/tablet-light.jpg" style="width:35px;height:35px" alt="Tablet light">
+<img src="assets/img/readme/tablet-dark.jpg" style="width:35px;height:35px" alt="Tablet dark">
+<img src="assets/img/readme/mobile-light.jpg" style="width:35px;height:35px" alt="Mobile light">
+<img src="assets/img/readme/tablet-dark.jpg" style="width:35px;height:35px" alt="Mobile dark">
 
 ## Features
 - Search for YouTube videos
