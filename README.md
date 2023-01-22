@@ -1,4 +1,4 @@
-# <img src="./assets/img/wikipedia-logo.png" alt="Wikipedia logo"> Welcome to  WikiTube <img src="./assets/img/youtube-logo.png"
+# <img src="./assets/img/wikipedia-logo.png" alt="Wikipedia logo"> Welcome to  WikiTube <img src="assets/img/youtube-logo.png"
 Wikipedia &amp; YouTube combination 
 
 WikiTube is a web application that merges the functionality of YouTube and Wikipedia. It allows users to search for videos on YouTube and also displays related Wikipedia articles on the same page. This creates an all-in-one experience for users to learn and explore topics they are interested in.
