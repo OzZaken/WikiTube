@@ -1,4 +1,4 @@
-#  Welcome to <img src="assets/img/wikipedia-logo.png" style="width:35px;height:35px" alt="Wikipedia logo"> WikiTube <img style="width:48px;height:35px" src="assets/img/youtube-logo.png">
+#  Welcome to <img  src="assets/img/wikipedia-logo.png" style="width:35px;height:35px;max-width:35px;max-height:35px" alt="Wikipedia logo"> WikiTube <img style="width:48px;height:35px" src="assets/img/youtube-logo.png">
 Wikipedia &amp; YouTube combination [Check it Out](https://ozzaken.github.io/WikiTube/)
 
 <img src="assets/img/readme/desktop.jpg" alt="Desktop Preview">
